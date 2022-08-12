@@ -3,3 +3,4 @@ second line from github
 this is feature context
 last feature context
 show me the map
+delete this line
